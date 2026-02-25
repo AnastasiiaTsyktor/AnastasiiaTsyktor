@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am a Data Analyst based in Spain with a background in digital marketing and SEO analytics. 
+I am a Data Analyst based in Spain with a background in digital marketing and SEO. 
 
 I specialize in transforming raw data into clear insights and business recommendations through data cleaning, exploratory analysis, and visualization.
 
